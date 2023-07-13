@@ -27,7 +27,7 @@ It provides users with a convenient way to create, view, and delete personal not
 
 
 ## Installation
-- **Clone the repository**: ```https://github.com/kalpitb210/simple-note-taking-app-fastapi.git```
+- **Clone the repository**: ```git clone https://github.com/kalpitb210/simple-note-taking-app-fastapi.git```
 - **Go to Directory**: ```cd simple-note-taking-app-fastapi/```
 - **Install the dependencies**: ```pip install -r requirements.txt```
 
