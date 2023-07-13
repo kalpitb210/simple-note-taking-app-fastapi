@@ -1,0 +1,73 @@
+.form-label{
+    font-weight: bolder;
+}
+
+.input-head{
+    text-align: center;
+}
+
+
+.form-check-label{
+    text-align: center;
+    font-weight: bolder;
+}
+
+.form-check {
+    margin-top: 15px;
+}
+
+.form-check-input{
+    align-items: center;
+}
+
+.input-check-head{
+    text-align: center;
+}
+
+.input-check{
+    text-align: center;
+    margin-top: 15px;
+    font-weight: bolder;
+}
+
+
+.title-in-box{
+    font-weight: bolder;
+}
+
+.in-box-head{
+    font-weight: bolder;
+}
+
+
+.in-box-answers{
+    display: inline;
+}
+
+.button-submit{
+    margin-top: 20px;
+    text-align: center;
+}
+
+.btn-danger{
+    display: inline;
+    margin-top: 10px;
+}
+
+
+.form-delete{
+    text-align: center;
+    margin-top: 10px;
+}
+
+.navbar-brand {
+    margin-left: 15px;
+}
+
+
+.heading-output{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 25px;
+}

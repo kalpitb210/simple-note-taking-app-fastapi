@@ -1,0 +1,4 @@
+fastapi
+pymongo==4.4.0
+uvicorn
+bson==0.5.10  
